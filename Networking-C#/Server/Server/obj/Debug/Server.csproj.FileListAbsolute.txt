@@ -1,0 +1,12 @@
+c:\users\andy.powell\documents\visual studio 2017\Projects\Server\Server\bin\Debug\Server.exe.config
+c:\users\andy.powell\documents\visual studio 2017\Projects\Server\Server\bin\Debug\Server.exe
+c:\users\andy.powell\documents\visual studio 2017\Projects\Server\Server\bin\Debug\Server.pdb
+c:\users\andy.powell\documents\visual studio 2017\Projects\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+c:\users\andy.powell\documents\visual studio 2017\Projects\Server\Server\obj\Debug\Server.exe
+c:\users\andy.powell\documents\visual studio 2017\Projects\Server\Server\obj\Debug\Server.pdb
+E:\C# 2\Networking\Server\Server\bin\Debug\Server.dll.config
+E:\C# 2\Networking\Server\Server\bin\Debug\Server.dll
+E:\C# 2\Networking\Server\Server\bin\Debug\Server.pdb
+E:\C# 2\Networking\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+E:\C# 2\Networking\Server\Server\obj\Debug\Server.dll
+E:\C# 2\Networking\Server\Server\obj\Debug\Server.pdb

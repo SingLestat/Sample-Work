@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="7271" size="10.000000 6.291391" />
+    <ImageTarget name="7268" size="10.000000 6.269592" />
+    <ImageTarget name="7238" size="10.000000 6.435986" />
+    <ImageTarget name="7237" size="10.000000 6.430769" />
+    <ImageTarget name="7236" size="10.000000 6.451613" />
+    <ImageTarget name="7232" size="10.000000 6.230530" />
+    <ImageTarget name="7230" size="10.000000 6.272727" />
+    <ImageTarget name="7229" size="10.000000 6.403786" />
+    <ImageTarget name="7227A" size="10.000000 6.295181" />
+    <ImageTarget name="7226" size="10.000000 6.288343" />
+    <ImageTarget name="7219A" size="10.000000 6.297468" />
+    <ImageTarget name="7218A" size="10.000000 6.333333" />
+    <ImageTarget name="7217A" size="10.000000 6.383648" />
+    <ImageTarget name="7215" size="10.000000 6.289308" />
+    <ImageTarget name="7213" size="10.000000 6.369048" />
+    <ImageTarget name="7212" size="10.000000 6.358025" />
+    <ImageTarget name="7210" size="10.000000 6.375404" />
+    <ImageTarget name="7209" size="10.000000 6.285714" />
+    <ImageTarget name="7205A" size="10.000000 6.449512" />
+    <ImageTarget name="7204" size="10.000000 6.281250" />
+  </Tracking>
+</QCARConfig>

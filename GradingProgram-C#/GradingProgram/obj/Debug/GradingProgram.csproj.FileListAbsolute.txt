@@ -1,0 +1,9 @@
+E:\C# 2\GradingProgram\GradingProgram\bin\Debug\GradingProgram.exe.config
+E:\C# 2\GradingProgram\GradingProgram\bin\Debug\GradingProgram.exe
+E:\C# 2\GradingProgram\GradingProgram\bin\Debug\GradingProgram.pdb
+E:\C# 2\GradingProgram\GradingProgram\obj\Debug\GradingProgram.Form1.resources
+E:\C# 2\GradingProgram\GradingProgram\obj\Debug\GradingProgram.Properties.Resources.resources
+E:\C# 2\GradingProgram\GradingProgram\obj\Debug\GradingProgram.csproj.GenerateResource.Cache
+E:\C# 2\GradingProgram\GradingProgram\obj\Debug\GradingProgram.exe
+E:\C# 2\GradingProgram\GradingProgram\obj\Debug\GradingProgram.pdb
+E:\C# 2\GradingProgram\GradingProgram\obj\Debug\GradingProgram.csprojResolveAssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\Users\Andrew\Desktop\Skills2\Skills2\bin\Debug\Skills2.exe.config
+C:\Users\Andrew\Desktop\Skills2\Skills2\bin\Debug\Skills2.exe
+C:\Users\Andrew\Desktop\Skills2\Skills2\bin\Debug\Skills2.pdb
+C:\Users\Andrew\Desktop\Skills2\Skills2\obj\Debug\Skills2.csprojResolveAssemblyReference.cache
+C:\Users\Andrew\Desktop\Skills2\Skills2\obj\Debug\Skills2.Form1.resources
+C:\Users\Andrew\Desktop\Skills2\Skills2\obj\Debug\Skills2.Properties.Resources.resources
+C:\Users\Andrew\Desktop\Skills2\Skills2\obj\Debug\Skills2.csproj.GenerateResource.Cache
+C:\Users\Andrew\Desktop\Skills2\Skills2\obj\Debug\Skills2.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Desktop\Skills2\Skills2\obj\Debug\Skills2.exe
+C:\Users\Andrew\Desktop\Skills2\Skills2\obj\Debug\Skills2.pdb
+C:\Users\Andrew\Desktop\Skills2\Skills2\obj\Debug\Skills2.Screen2.resources
+C:\Users\Andrew\Desktop\Skills2\Skills2\obj\Debug\Skills2.TotalScreen.resources

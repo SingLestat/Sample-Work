@@ -1,0 +1,9 @@
+E:\C# 2\DataBase\DataBase\bin\Debug\DataBase.exe.config
+E:\C# 2\DataBase\DataBase\bin\Debug\DataBase.exe
+E:\C# 2\DataBase\DataBase\bin\Debug\DataBase.pdb
+E:\C# 2\DataBase\DataBase\obj\Debug\DataBase.csprojResolveAssemblyReference.cache
+E:\C# 2\DataBase\DataBase\obj\Debug\DataBase.Form1.resources
+E:\C# 2\DataBase\DataBase\obj\Debug\DataBase.Properties.Resources.resources
+E:\C# 2\DataBase\DataBase\obj\Debug\DataBase.csproj.GenerateResource.Cache
+E:\C# 2\DataBase\DataBase\obj\Debug\DataBase.exe
+E:\C# 2\DataBase\DataBase\obj\Debug\DataBase.pdb

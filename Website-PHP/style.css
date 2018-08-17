@@ -1,0 +1,89 @@
+﻿body{
+	background-image: url("Background.jpg");
+	background-position: left bottom;
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+	color:#cccccc;
+	padding-top: 50px; 
+	font-family: 'Oswald', sans-serif;
+	
+}
+section{
+	float: left;
+	padding: 70px;
+	padding-left: 100px;
+	width: 550px;
+	color: #737373;
+}
+#wrapper{
+	background-color: #000000;
+	right: 0;
+	width: 60%;
+	height: 1700px;
+	position: absolute;
+	box-shadow: 0 0 15px #333333;
+}
+#cpp .item img{
+    display: block;
+    width: 100%;
+    height: auto;
+}
+h1{
+	padding-left: 20px;
+	padding-bottom: 10px;
+	color: #ffffff;
+}
+.center{
+	margin-left: auto;
+	margin-right: auto;
+}
+form{
+	padding-top:20px;
+}
+.centerText{
+	text-align: center;	
+}
+.centerForm{
+	margin: 0 auto;
+	width: 60%;
+	padding-left: 60px;
+}
+section img{
+	margin-right:15px;
+	float:left;
+}
+section h4{
+	padding-top: 80px;
+}
+p{
+	padding-left: 20px;
+	overflow-wrap: break-word;
+}
+
+
+@media only screen and (max-width: 1053px) {
+    section h4{
+			clear:both;
+			padding: 0px;
+	}
+	
+}
+@media only screen and (max-width: 670px) {
+    section img{
+    	display: none;
+    }
+
+}
+/*For mobile use*/
+@media only screen and (max-width: 500px) {
+    #wrapper{
+        width:80%;
+		height: 1000px;
+    }
+	section{
+		display: none;		
+	}
+	img{
+		display: none;
+	}
+}
